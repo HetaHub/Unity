@@ -1,0 +1,9 @@
+.HUDText {
+    -unity-font: resource('Fonts & Materials/militech_o_2019-04-13');
+    -unity-font-style: normal;
+    -unity-font-definition: none;
+    font-size: 40px;
+    -unity-text-outline-width: 2px;
+    -unity-text-outline-color: rgb(255, 255, 255);
+    color: rgba(255, 255, 255, 255);
+}
